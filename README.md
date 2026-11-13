@@ -1,4 +1,3 @@
-<img width="1600" height="900" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/2bcb5347-4a83-4c15-a34c-91e98eb8e8b5" />
 # 📊 HR Analytics & Payroll Management System (SQL & Power BI)
 
 ## 📌 Project Overview
@@ -31,4 +30,5 @@ The relational database consists of 5 core tables connected via a clean Star Sch
 * **Attendance Consistency:** Achieved an overall **92.5% attendance rate** with zero chronic absenteeism (no employee exceeded 3 absences).
 
 ## 📊 Dashboard Preview
-*(Tip: Add your Power BI Dashboard screenshot link here)*
+<img width="1600" height="900" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/46879f9a-538a-4be0-b014-ecae79aecd53" />
+
